@@ -1,0 +1,3 @@
+hi from fileTest2.js!
+
+if you see this in capital letters it means the code is working successfully !
